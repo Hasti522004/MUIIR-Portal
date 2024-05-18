@@ -1,0 +1,84 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    /* font-weight: bold; */
+    font-size: medium;
+}
+
+.card {
+    width: auto;
+}
+
+.card-header {
+    background-color: #337ab7;
+    text-align: center;
+}
+
+.input-container {
+    display: grid;
+    grid-template-columns: 1fr 2.5fr 0.7fr 2.5fr;
+    gap: 0px;
+    align-items: center;
+}
+
+.input-container input {
+    width: 90%;
+}
+
+input {
+    margin: 5px;
+    height: 25px;
+    border-radius: 5px;
+    border: 2px solid gray;
+}
+
+label {
+    margin-bottom: auto;
+    font-weight: bold;
+}
+
+table,
+th,
+td {
+    border: 1.5px solid gray;
+    border-collapse: collapse;
+}
+
+table {
+    width: 100%;
+    table-layout: fixed;
+    text-align: center;
+}
+
+.text-center {
+    text-align: center;
+    margin-top: 10px;
+}
+
+button,
+#submit {
+    background-color: #337ab7;
+    color: white;
+    padding: 0px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: auto;
+    height: auto;
+}
+
+[type="radio"],
+[type="checkbox"] {
+    vertical-align: middle;
+}
+
+#popupOverlay {
+    display: none;
+    z-index: 9999;
+}
+
+.preview-container {
+    max-height: 80vh;
+    /* Set a maximum height for the content */
+    overflow: auto;
+    /* Enable scrolling when content exceeds the max height */
+}
