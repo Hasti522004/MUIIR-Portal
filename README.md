@@ -38,7 +38,6 @@ We also appreciate the guidance given by other supervisors and are thankful to P
 ## Features
 
 - **Admin Dashboard:** Control and oversee all activities, assign mentors, and allocate students to specific mentors.
-- **Student and Mentor Dashboards:** Manage personal activities, communicate with mentors/students, and access resources.
 - **Event Management:** Manage and view events, with the latest top 3 events auto-scrolling.
 - **Affiliation Management:** Manage affiliations with companies and start-ups.
 - **Intellectual Property Rights Management:** Register and manage copyrights, designs, and trademarks.
