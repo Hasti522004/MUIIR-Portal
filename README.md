@@ -1,5 +1,3 @@
-![image](https://github.com/Hasti522004/MUIIR-Portal/assets/93071222/856cd95d-9a9e-4257-8d2d-c566f384f905)![image](https://github.com/Hasti522004/MUIIR-Portal/assets/93071222/b073626a-65ae-4412-8c42-b9028af24fb8)# MUIIR Portal
-
 MUIIR Portal is a centralized platform designed for the Marwadi University Innovation, Incubation, and Research Center. The portal aims to manage all activities and events of the center, including affiliations with different companies, start-ups, and intellectual property rights such as copyrights, designs, and trademarks. It also manages various facilities like prototype and infrastructure and provides services like 3D printing and laser engraving.
 
 ## Table of Contents
