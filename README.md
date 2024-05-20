@@ -1,4 +1,4 @@
-# MUIIR Portal
+![image](https://github.com/Hasti522004/MUIIR-Portal/assets/93071222/856cd95d-9a9e-4257-8d2d-c566f384f905)![image](https://github.com/Hasti522004/MUIIR-Portal/assets/93071222/b073626a-65ae-4412-8c42-b9028af24fb8)# MUIIR Portal
 
 MUIIR Portal is a centralized platform designed for the Marwadi University Innovation, Incubation, and Research Center. The portal aims to manage all activities and events of the center, including affiliations with different companies, start-ups, and intellectual property rights such as copyrights, designs, and trademarks. It also manages various facilities like prototype and infrastructure and provides services like 3D printing and laser engraving.
 
@@ -85,6 +85,26 @@ In conclusion, the MUIIR Portal is a centralized platform that effectively manag
 The platform is equipped with separate dashboards for admins, students, and mentors, enabling effective communication and collaboration. It also offers dynamic form options for activities like copyright registration, making the process more efficient and accessible.
 
 Overall, the MUIIR Portal aims to create a seamless and efficient environment for students, mentors, and administrators to collaborate and innovate together. It provides a comprehensive platform for managing all aspects of the center's activities and helps to foster a culture of innovation and research. With its user-friendly interface and efficient features, the MUIIR Portal is a valuable tool for anyone associated with Marwadi University's Innovation, Incubation, and Research Center.
+
+# PHOTOS:
+![image](https://github.com/Hasti522004/MUIIR-Portal/assets/93071222/a49317e7-0304-4fd8-9fbb-d75ec627d744)
+
+![image](https://github.com/Hasti522004/MUIIR-Portal/assets/93071222/6f4ffab6-ee12-4e37-9538-2d133fecb0b5)
+
+![image](https://github.com/Hasti522004/MUIIR-Portal/assets/93071222/3209409e-11b0-4d7a-94ff-4d6cd9d189b9)
+
+### Admin Dashboard
+![image](https://github.com/Hasti522004/MUIIR-Portal/assets/93071222/da212f46-22fe-4443-8482-a9cbe02f6acb)
+
+### IPR Forms
+<img width="915" alt="image" src="https://github.com/Hasti522004/MUIIR-Portal/assets/93071222/749f6019-0758-4336-a861-529b21f70e6d">
+
+### Preview of IPR forms
+<img width="914" alt="image" src="https://github.com/Hasti522004/MUIIR-Portal/assets/93071222/832809b6-6a33-468e-922a-cdcb5c9d7f82">
+
+### PDF of IPR Forms
+<img width="960" alt="image" src="https://github.com/Hasti522004/MUIIR-Portal/assets/93071222/66cb1490-3e6f-4e3a-934b-b8fb4a02bb87">
+
 
 ## Contributions
 
